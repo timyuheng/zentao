@@ -1,1 +1,1 @@
-FROM easysoft/zentao:12.4.stable
+FROM easysoft/zentao:11.4.stable
